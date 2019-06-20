@@ -39,7 +39,7 @@ def standard(year, leags, characters, win, remainingHP):
 			
 
 
-
+##aaa
 
 
 # df = pd.read_csv('./some.csv')
