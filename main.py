@@ -41,7 +41,7 @@ def standard(year, leags, characters, win, remainingHP):
 ###
 
 
-
+#
 # df = pd.read_csv('./some.csv')
 
 # print df       # show all column
